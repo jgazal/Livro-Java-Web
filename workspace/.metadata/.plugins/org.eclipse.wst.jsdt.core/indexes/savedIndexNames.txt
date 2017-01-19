@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+/home/jgazal/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1372792436.index
+3650690244.index
+943117055.index
+739182861.index
+476566750.index

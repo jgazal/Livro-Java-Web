@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 4 elements to &apos;JavaAcademy/src/Dia1&apos;&#x0A;- Original project: &apos;JavaAcademy&apos;&#x0A;- Destination element: &apos;JavaAcademy/src/Dia1&apos;&#x0A;- Original elements:&#x0A;     Exercicio2.java&#x0A;     Exercicio1.java&#x0A;     Exercicio3.java&#x0A;     Exercicio4.java&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;Dia1" element1="/src&lt;{Exercicio2.java" element2="/src&lt;{Exercicio1.java" element3="/src&lt;{Exercicio3.java" element4="/src&lt;{Exercicio4.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1471981629052" units="4" version="1.0"/>
+</session>

@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Wed Sep 21 16:33:02 BRT 2016
+org.eclipse.jst.jee.server\:/binary\:/home/jgazal/.m2/repository/org/springframework/spring-web/3.2.8.RELEASE/spring-web-3.2.8.RELEASE.jar=WEB-INF/lib/spring-web-3.2.8.RELEASE.jar
